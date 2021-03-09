@@ -4,5 +4,4 @@ theme: minima
 url: "http://vkuhlmann.github.io"
 minima:
   skin: dark
-author:
-  name: Vincent Kuhlmann
+author: Vincent Kuhlmann

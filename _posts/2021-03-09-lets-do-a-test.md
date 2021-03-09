@@ -8,18 +8,3 @@ author:
 # And like this
 
 you can add posts.<br/>
-
-{{ site.author.name }}<br/>
-
-{{ site.author }}<br/>
-
-{{ page.author }}<br/>
-
-{{ page.author.name }}<br/>
-
-Site is {{ site }}<br/>
-
-Page is {{ page }}<br/>
-
-Layout is {{ layout }}<br/>
-
