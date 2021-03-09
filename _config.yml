@@ -1,3 +1,4 @@
+title: The title
 name: My Github Pages testing domain
 description: I'm testing
 
@@ -8,3 +9,7 @@ theme: minima
 url: "http://vkuhlmann.github.io"
 
 author: Vincent Kuhlmann
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ 
