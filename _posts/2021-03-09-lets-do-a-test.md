@@ -2,7 +2,7 @@
 layout: post
 title: "Let's do a test"
 author:
-    - name: Vincent
+    - Vincent
 ---
 
 # And like this

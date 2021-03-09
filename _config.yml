@@ -4,7 +4,7 @@ theme: minima
 url: "http://vkuhlmann.github.io"
 markdown: GFM
 minima:
-  skin: dark
+    skin: dark
 
 author:
-  name: Vincent Kuhlmann
+    name: Vincent Kuhlmann
