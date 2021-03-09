@@ -16,3 +16,10 @@ you can add posts.<br/>
 {{ page.author }}<br/>
 
 {{ page.author.name }}<br/>
+
+Site is {{ site }}<br/>
+
+Page is {{ page }}<br/>
+
+Layout is {{ layout }}<br/>
+
