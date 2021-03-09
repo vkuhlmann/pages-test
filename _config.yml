@@ -3,3 +3,8 @@ description: I'm testing
 theme: minima
 url: "http://vkuhlmann.github.io"
 markdown: GFM
+minima:
+  skin: dark
+
+author:
+  name: Vincent Kuhlmann
