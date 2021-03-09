@@ -2,7 +2,7 @@ name: My Github Pages testing domain
 description: I'm testing
 
 minima:
-  skin: classic
+  skin: dark
 
 theme: minima
 url: "http://vkuhlmann.github.io"
