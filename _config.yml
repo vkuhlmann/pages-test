@@ -1,5 +1,5 @@
 name: My Github Pages testing domain
 description: I'm testing
-theme: jekyll-theme-cayman
+theme: minima
 url: "http://vkuhlmann.github.io"
 markdown: GFM
