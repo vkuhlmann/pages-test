@@ -1,7 +1,10 @@
 name: My Github Pages testing domain
 description: I'm testing
-theme: minima
-url: "http://vkuhlmann.github.io"
+
 minima:
   skin: dark
+
+theme: minima
+url: "http://vkuhlmann.github.io"
+
 author: Vincent Kuhlmann
