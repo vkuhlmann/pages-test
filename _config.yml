@@ -2,4 +2,4 @@ name: My Github Pages testing domain
 description: I'm testing
 theme: jekyll-theme-midnight
 url: "http://vkuhlmann.github.io"
-markdown: kramdown
+markdown: GFM
