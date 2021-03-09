@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Let's do a test"
-author: Vindent Kuhlmann
+author:
+    - Vincent
 ---
 
 # And like this
