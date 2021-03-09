@@ -2,9 +2,7 @@ name: My Github Pages testing domain
 description: I'm testing
 theme: minima
 url: "http://vkuhlmann.github.io"
-markdown: GFM
 minima:
-    skin: dark
-
+  skin: dark
 author:
-    name: Vincent Kuhlmann
+  name: Vincent Kuhlmann
