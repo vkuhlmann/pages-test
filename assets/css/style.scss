@@ -3,7 +3,7 @@
 ---
 
 @import
-  "minima/skins/solarized-dark",
+  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
 
 //@import
